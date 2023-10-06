@@ -1,34 +1,31 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Ali":
+  - firstname: ["Lna"]
+    url : https://www.linkedin.com/in/lna-ali-2070b1183/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Andersen":
+  - firstname: ["Søren K."]
+    url : https://orcid.org/0000-0002-7612-0127
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Baumgartner":
+  - firstname: ["Susanne E."]
+    url : https://www.uva.nl/en/profile/b/a/s.e.baumgartner/s.e.baumgartner.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Bavelier":
+  - firstname: ["Daphne"]
+    url: https://www.unige.ch/fapse/brainlearning/people/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Bediou":
+  - firstname: ["Benoit"]
+    url : https://www.researchgate.net/profile/Benoit-Bediou
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Cekic":
+  - firstname: ["Sezen"]
+    url : https://www.researchgate.net/profile/Sezen-Cekic
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Ciobanu":
+  - firstname: ["Alina"]
+    url : https://www.linkedin.com/in/alina-m-ciobanu-08600b84/?originalSubdomain=ch
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Shibata":
+  - firstname: ["Kengo"]
+    url : https://orcid.org/0000-0002-6156-426X

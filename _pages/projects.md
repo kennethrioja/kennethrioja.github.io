@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: about UX, video games and data analysis
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [ux, video games, data analysis, misc]
 horizontal: false
 ---
 

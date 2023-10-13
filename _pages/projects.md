@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 display_categories: [ux, video games, data analysis, misc]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
 <!-- pages/projects.md -->

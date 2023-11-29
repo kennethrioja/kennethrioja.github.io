@@ -40,6 +40,6 @@ Acquiring hard skills is enriching, but using soft skills to *bring together tea
 
 # What's coming next
 
-I am now writing my Masters thesis and continuing my journey as a master student. More projects are coming: finishing the common core at the 42 school in Lausanne, the start-up I am helping with, another semester to mentor a group of student for the course "Comprendre le Numérique" and continuing my job as a researcher. 
+I am now writing my Masters thesis and continuing my journey as a master student. More projects are coming: end of the common core at the 42 school in Lausanne, the start-up I am helping with, another semester to mentor a group of student for the course "Comprendre le Numérique" and continuing my job as a researcher. 
 
 And I am still looking for an internship, so please [contact me 🎉](https://kennethrioja.github.io/) !

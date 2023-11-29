@@ -26,7 +26,7 @@ I am an Educational Technology student having 5 years of experience in a [cognit
 <!-- Accomplished X as by measured Y by doing Z -->
 ["Focus on data", some might say](https://www.google.com/about/careers/applications/interview-tips/?hl=en_US). Among these experiences, I have increased university students' self-reported digital knowledge by 28.7% in one-day by designing interactive courses.
 
-If you are here, it is probably because you are looking for someone with experience in `research`, `ux`, `project management`, `instructional design`, `cognitive psychology`, `coding` or `data analysis`. You are in the right place at the right moment! Do not loose more time and simply [send me an email](mailto:kennethrioja@protonmail.com) so that we can talk about your project. ([more about me](https://kennethrioja.github.io/blog/2023/university-between-bachelor-and-master/)).
+If you are here, it is probably because you are looking for someone with experience in `research`, `ux`, `project management`, `instructional design`, `cognitive psychology`, `coding` or `data analysis`. You are in the right place at the right moment: simply [send me an email](mailto:kennethrioja@protonmail.com) so that we can talk about your projects ! ([more about me](https://kennethrioja.github.io/blog/2023/university-between-bachelor-and-master/))
 
 I seek to team up with inclusive, talented, creative, innovative and inspiring people aiming for positive contribution to society through technology.<br>
 I am very much looking forward to talking with you in person !<br>

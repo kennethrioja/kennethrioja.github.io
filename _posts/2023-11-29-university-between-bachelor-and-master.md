@@ -2,7 +2,7 @@
 layout: post
 title: What skills have I acquired between my Bachelor and my Masters degree?
 date: 2023-11-29 15:00:00
-description: my academic life between 2019 and 2024
+description: my academic life between 2019 and 2023
 tags: university work misc # work university hobby research edtech code ux ui data psychology videogames misc 
 toc:
 #   beginning: true

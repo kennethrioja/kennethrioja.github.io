@@ -29,11 +29,27 @@ layout: default
               alt=page.profile.image
               cache_bust=true -%}
             {% endif -%}
+
             {%- if page.profile.more_info %}
             <div class="more-info">
               {{ page.profile.more_info }}
             </div>
             {%- endif %}
+
+            <!-- Social -->
+            {%- if page.social %}
+            <div class="social">
+                <h1 id="contact">Contact</h1>
+                {{ site.contact_note }}
+                <div class="contact-icons">
+                {% include social.html %}
+                </div>
+                <!-- <div class="contact-note">
+                {{ site.contact_note }}
+                </div> -->
+            </div>
+            {%- endif %}
+
           </div>
           {%- endif %}
 
@@ -57,22 +73,6 @@ layout: default
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
-          {%- endif %}
-
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-                <h1 id="contact">Contact</h1>
-                {{ site.contact_note }}
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <!-- <div class="contact-note">
-                {{ site.contact_note }}
-              </div> -->
-
-            </div>
           {%- endif %}
         </article>
 

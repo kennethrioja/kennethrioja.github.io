@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: about UX, video games and data analysis
+description: about UX, video games and data analysis. See publications at the end.
 nav: true
 nav_order: 1
-display_categories: [ux, video games, data analysis, misc]
+display_categories: [ux, video games, data analysis, misc, publications]
 horizontal: false
 toc:
   sidebar: left
@@ -57,4 +57,11 @@ toc:
   </div>
   {%- endif -%}
 {%- endif -%}
+</div>
+
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
 </div>

@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Kenneth
 middle_name:
 last_name: Rioja
-email: kenneth.rioja@protonmail.com
+# email: kenneth.rioja@protonmail.com # this displays email icon
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research, EdTech, Video Games, Data Analysis, UX
 footer_text: >
@@ -14,7 +14,7 @@ footer_text: >
 keywords: edtech, video-games, data-analysis, ux  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🦉  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: deku.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://kennethrioja.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -102,10 +102,8 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  I seek to team up with talented, ambitious, creative, innovative and inspiring people aiming for positive contribution to society through technology. I am very much looking forward to talking with you in person ! <br><br>
-  My name is <a href="mailto:kenneth.rioja@protonmail.com">Kenneth Rioja</a>.<br>
-  You can contact me by email (kenneth dot rioja at protonmail dot com).<br>
-  Cheers ! ☀️
+  <a href="mailto:kenneth.rioja@protonmail.com">kenneth dot rioja at protonmail dot com</a>
+  
 # (add an indentation)
 
 # -----------------------------------------------------------------------------
@@ -122,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: KR's blog # blog_name will be displayed in your blog page
-# blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar. Uncomment to enable blog
-blog_description: Kenneth Rioja's blog
+blog_name: a glimpse of my life # blog_name will be displayed in your blog page
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar. Uncomment to enable blog
+blog_description: this blog is ChatGPT free, only words from my mind
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -158,9 +156,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -257,7 +255,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [year, tags] # can add 'categories', enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
@@ -267,8 +265,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['research', 'edtech', 'code', 'ux', 'data', 'videogames', 'misc'] # these tags will be displayed on the front page of your blog
+# display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

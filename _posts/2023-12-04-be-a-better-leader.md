@@ -10,7 +10,7 @@ tags: book management startup # work university hobby research edtech code ux ui
 # categories: sample-posts
 # related_posts: false
 # related_publications: einstein1950meaning, einstein1905movement
-thumbnail: assets/img/blog_book_TDC.jpeg
+# thumbnail: assets/img/blog_book_TDC.jpeg 300x400
 # featured: true
 ---
 

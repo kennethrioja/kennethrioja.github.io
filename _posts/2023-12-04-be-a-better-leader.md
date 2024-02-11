@@ -3,14 +3,14 @@ layout: post
 title: How to be a better leader?
 date: 2023-12-04 13:00:00
 description: Trillion Dollar Coach book review
-tags: book management startup # work university hobby research edtech code ux ui data psychology videogames misc book
+tags: book management misc # work university hobby research edtech code ux ui data psychology videogames misc book
 # toc:
 #   beginning: true
 #   sidebar: left
 # categories: sample-posts
 # related_posts: false
 # related_publications: einstein1950meaning, einstein1905movement
-thumbnail: assets/img/blog_book_TDC.jpeg # 300x400
+thumbnail: assets/img/blog_bookTDC.jpeg # 300x400
 # featured: true
 ---
 
@@ -18,7 +18,7 @@ thumbnail: assets/img/blog_book_TDC.jpeg # 300x400
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blog_book_TDC.jpeg" title="book trillion dollar coach" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/blog_bookTDC.jpeg" title="book trillion dollar coach" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>

@@ -30,9 +30,22 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// Custom colors
+$kr-default1-color:        #f4f4f4 !default;
+$kr-default2-color:        #094226 !default;
+$kr-default2-color-light:  lighten($kr-default2-color, 10%);
+$kr-default3-color:        #1d7970 !default;
+$kr-default4-color:        #B8E1DD !default;
+
+$kr-dark1-color:        #222222 !default;
+$kr-dark2-color:        #043f34 !default;
+$kr-dark2-color-light:  lighten($kr-dark2-color, 25%);
+$kr-dark3-color:        #3A9188 !default;
+$kr-dark4-color:        #B8E1DD !default;
+
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($green-color-dark, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
 
 // Font awesome location

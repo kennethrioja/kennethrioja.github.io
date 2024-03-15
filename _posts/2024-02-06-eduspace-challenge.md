@@ -42,6 +42,10 @@ Moreover, when talking with peers of my Master curriculum, we felt like we have 
 
 From all the ideas of what could be a future learning space, words like "personalisation", "students' needs", "goal" were repeatedly used.
 
+Link to the promotional video of the event: https://www.youtube.com/watch?v=dWy5iNByxQ4
+
+Link to another blog post (en français) in the CIEL blog of the UNIGE where I share my experience: 
+
 ---
 
 What I will keep in mind after these two days :

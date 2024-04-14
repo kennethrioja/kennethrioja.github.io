@@ -33,7 +33,7 @@ ls:					clear show
 					docker ps
 					docker image ls
 
-c:					clear show cc ci prune cenv ls
+clean:					clear show cc ci prune cenv ls
 					@echo "show cc ci prune cenv ls"
 
 .PHONY:				all ls show cc ci prune c vim cenv re

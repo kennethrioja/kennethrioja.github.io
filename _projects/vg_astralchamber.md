@@ -2,7 +2,7 @@
 layout: page
 title: astralchamber
 description: a puzzle game about confinement
-img: assets/img/games_astralchamber.jpeg
+img: assets/img/games_astralchamber1.jpeg
 importance: 1
 category: video games
 ---

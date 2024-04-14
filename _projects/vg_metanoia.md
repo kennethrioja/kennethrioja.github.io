@@ -3,7 +3,7 @@ layout: page
 title: metanoïa
 description: a static top-down shooter game with only three bullets
 img: assets/img/games_metanoia3.jpeg
-importance: 1
+importance: 3
 category: video games
 ---
 
@@ -13,7 +13,7 @@ category: video games
 
 # context
 
-Metanoïa was made at the [Epic Game Jam](https://epicgamejam.com/) in August 2023, in collaboration with [Quentin Brechbühl](https://www.linkedin.com/in/qntbre/), Léo Gaillard, [Benjamin Vermot](https://benjaminvermot.ch/index.html) and [Victor Vermot](https://www.linkedin.com/in/victor-vermot-petit-outhenin-02786b23b/) at the [Swiss Game Academy](https://gameacademy.ch/SGA/) in 2022. I was responsible of the random static position and spawn of the environment elements of the map.
+[Metanoïa](https://benjamin-vermot.itch.io/metanoia) was made at the [Epic Game Jam](https://epicgamejam.com/) in August 2023, in collaboration with [Quentin Brechbühl](https://www.linkedin.com/in/qntbre/), Léo Gaillard, [Benjamin Vermot](https://benjaminvermot.ch/index.html) and [Victor Vermot](https://www.linkedin.com/in/victor-vermot-petit-outhenin-02786b23b/). I was responsible of the random static position and spawn of the environment elements of the map.
 
 # pitch
 
@@ -46,4 +46,4 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Star Tales*](./../vg_startales)
+⏭ [*next project : Wannabee*](./../vg_wannabee)

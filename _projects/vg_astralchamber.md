@@ -1,7 +1,7 @@
 ---
 layout: page
 title: astralchamber
-description: a puzzle game about confinement
+description: a 'confined' puzzle game
 img: assets/img/games_astralchamber1.jpeg
 importance: 1
 category: video games
@@ -23,7 +23,7 @@ Also find a blog post about the entire development process [here](../../blog/202
 
 > Incroyable, la qualité des enigmes, c'est insane. Et très beau design. Bravo! – comment by [Krucksy](https://itch.io/profile/krucksy) on [itch.io](https://kennethrioja.itch.io/astralchamber).
 
-Confined in a cube for decades, loneliness is doom. You have found a strange cube in the attic of your grand-parents. You have touched it and now you are propelled in an astral world where you have been given omniscient power to save a small character.
+Confined in a cube for decades, loneliness is doom. You have found a strange cube in the attic of your grand-parents house. You have touched it and now you are propelled in an astral world where you have been given omniscient power to save a small dood.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

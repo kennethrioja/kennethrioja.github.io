@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using mutate with multiple conditions including grepl in R
-date: 2024-03-14 13:00:00
+date: 2024-03-15 13:00:00
 description: Damn it Regex
 tags: R data code # work university hobby research edtech code ux ui data psychology videogames misc book
 # toc:

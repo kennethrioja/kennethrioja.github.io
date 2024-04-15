@@ -1,10 +1,18 @@
 ---
 layout: post
 title: We got the second place at UPsi Game Jam 2024!
-date: 2024-03-14 13:00:00
+date: 2024-03-24 13:00:00
 description: Do you like escape games?
 tags: hobby code videogames # work university hobby research edtech code ux ui data psychology videogames misc book
 thumbnail: assets/img/games_astralchamber1.jpeg # 300x400
+# toc:
+#   beginning: true
+#   sidebar: left
+# categories: sample-posts
+# related_posts: false
+# related_publications: einstein1950meaning, einstein1905movement
+# thumbnail: assets/img/blog_screenandearlychildhood.jpeg # 300x400
+# featured: true
 ---
 
 <div class="row">

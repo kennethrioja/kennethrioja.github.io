@@ -15,6 +15,8 @@ tags: videogames code hobby # work university hobby research edtech code ux ui d
 # redirect: https://edu.ge.ch/site/tablettepedagogique/2024/03/28/2656/
 ---
 
+(WORKINPROGRESS...)
+
 1. (All) [Download and install the same Long Term Support release of Unity](https://unity.com/releases/editor/qa/lts-releases)
 
 2. (One) Open Unity, click on "New Project", choose your location, do not connect to Unity Cloud and click on "Create Project".

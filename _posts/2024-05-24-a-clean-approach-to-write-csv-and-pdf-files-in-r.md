@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A clean approach to write csv and pdf files in R
-date: 2024-05-29 13:00:00
+date: 2024-05-28 13:00:00
 description: 
 tags: work data code # work university hobby research edtech code ux ui data psychology videogames misc book
 # toc:

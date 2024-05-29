@@ -30,4 +30,4 @@ df <- raw %>%
 
 Regex tips:
 
-`^` marks the begining of the string, `.*` marks anything (like the `*` in C), `$` marks the end of the string
+`^` marks the begining of the string, `.*` marks anything (like the `*` in bash), and `$` marks the end of the string (like `$` in vim to go to the end of the line)

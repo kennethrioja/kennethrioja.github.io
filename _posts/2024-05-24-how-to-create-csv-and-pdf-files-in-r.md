@@ -1,14 +1,14 @@
 ---
 layout: post
-title: A clean approach to write csv and pdf files in R
-date: 2024-05-28 13:00:00
-description: 
+title: How to create csv and pdf files in R?
+date: 2024-05-24 13:00:00
+description: A short and concise example.
 tags: work data code # work university hobby research edtech code ux ui data psychology videogames misc book
 # toc:
 #   beginning: true
 #   sidebar: left
 # categories: sample-posts
-# related_posts: false
+related_posts: true
 # related_publications: einstein1950meaning, einstein1905movement
 # thumbnail: assets/img/blog_screenandearlychildhood.jpeg # 300x400
 # featured: true
@@ -46,4 +46,7 @@ plot(df$cyl, df$mpg)
 dev.off()
 
 rm(output_dir, proj_name, name_raw)
+
+## Save environment
+save.image(paste(name_raw, ".RData", sep=''))
 ```

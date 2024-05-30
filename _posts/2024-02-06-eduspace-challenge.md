@@ -8,7 +8,7 @@ tags: research edtech ui # work university hobby research edtech code ux ui data
 #   beginning: true
 #   sidebar: left
 # categories: sample-posts
-# related_posts: false
+related_posts: true
 # related_publications: einstein1950meaning, einstein1905movement
 thumbnail: assets/img/blog_edsc2024.jpeg # 300x400
 # featured: true
@@ -22,6 +22,8 @@ thumbnail: assets/img/blog_edsc2024.jpeg # 300x400
 <div class="caption">
     Finding Kenneth 🔍
 </div>
+
+> For french speaking folks, you can visit the CIEL (Communauté d'intérêts pour l'enseignement en ligne) blog post I have written : [https://ciel.unige.ch/2024/04/pourquoi-aimez-vous-vous-etudier-dans-un-cafe-ou-pas-retour-dexperience-dun-etudiant-maltt-a-leduspace-challenge/](https://ciel.unige.ch/2024/04/pourquoi-aimez-vous-vous-etudier-dans-un-cafe-ou-pas-retour-dexperience-dun-etudiant-maltt-a-leduspace-challenge/)
 
 All started by a post in the internal forum of the Master [MALTT](https://maltt.unige.ch/). Students from all over Switzerland were invited to take part of a hackathon during the [EduHub Days](https://eduhubdays2024.events.switch.ch/) in Winterthur. The pitch: two days in [ZHAW](https://www.zhaw.ch/fr/universite/), use Design Thinking to ideate on future learning spaces.
 

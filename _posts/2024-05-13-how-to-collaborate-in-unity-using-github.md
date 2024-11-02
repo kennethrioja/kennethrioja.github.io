@@ -24,9 +24,9 @@ I have worked on several Unity projects and the general workflow we adopted with
 Legend:
 
 - (All/One/Others), means that the bullet point should be done by 'All' team members, 'One' team member, the 'Others' from your team.
-- `git commit -m "<something-here>"` means that you can replace <something-here> to whatever you want, like `git commit -m "I write what I want"`.
+- `git commit -m "<something-here>"` means that you can replace `<something-here>` to whatever you want, like `git commit -m "I write what I want"`.
 
-Here are the steps to work to cooperate on the same Unity project:
+Here are the steps to cooperate on the same Unity project:
 
 ## Setup the cooperation
 
@@ -44,7 +44,7 @@ Here are the steps to work to cooperate on the same Unity project:
 
 5. (One) On your computer, open a terminal, navigate to the directory where you have your freshly new Unity project and type the following commands:
 - `git init` to initialize git in your directory
-- `git checkout -b <my-branch-name>` to create creating a branch name <my-branch-name> (you can choose another one)
+- `git checkout -b <my-branch-name>` to create creating a branch name `<my-branch-name>` (you can choose another one)
 - `git remote add origin <paste-the-ssh-here>` to link your local git to the remote one
 - `git pull origin main` to download the .gitignore, README.md and LICENCE files.
 - `git add .` to add to staging the Unity project you've created

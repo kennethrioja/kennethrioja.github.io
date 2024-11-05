@@ -3,7 +3,7 @@ layout: page
 title: lapin couard
 description: an educational video game to learn additions and subtractions
 img: assets/img/games_lapincouard.jpeg
-importance: 5
+importance: 6
 category: video games
 ---
 

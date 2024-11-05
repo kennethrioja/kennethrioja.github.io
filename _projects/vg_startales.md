@@ -3,7 +3,7 @@ layout: page
 title: star tales
 description: a typewriting game where you write the story
 img: assets/img/games_startales1.jpeg
-importance: 4
+importance: 5
 category: video games
 ---
 

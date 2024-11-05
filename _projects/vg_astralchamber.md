@@ -3,7 +3,7 @@ layout: page
 title: astralchamber
 description: a 'confined' puzzle game
 img: assets/img/games_astralchamber1.jpeg
-importance: 1
+importance: 2
 category: video games
 ---
 
@@ -52,4 +52,4 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Star Tales*](./../vg_startales)
+⏭ [*next project : Star Tales*](./../vg_wannabee)

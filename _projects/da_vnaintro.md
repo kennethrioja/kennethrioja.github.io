@@ -3,7 +3,7 @@ layout: page
 title: vna using R
 description: an introduction to visual network analysis
 img: assets/img/da_vnaintro.jpeg
-importance: 2
+importance: 3
 category: data analysis
 ---
 

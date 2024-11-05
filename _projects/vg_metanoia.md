@@ -3,7 +3,7 @@ layout: page
 title: metanoïa
 description: a static top-down shooter game with only three bullets
 img: assets/img/games_metanoia3.jpeg
-importance: 3
+importance: 4
 category: video games
 ---
 

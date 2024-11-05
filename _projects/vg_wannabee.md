@@ -3,7 +3,7 @@ layout: page
 title: wannabee
 description: a tower defense to help nature
 img: assets/img/games_wannabee1.jpeg
-importance: 2
+importance: 3
 category: video games
 ---
 

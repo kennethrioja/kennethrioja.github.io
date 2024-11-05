@@ -1,9 +1,9 @@
 ---
 layout: page
-title: R analyses
+title: Comparing questionnaire' versions
 description: extreme group analysis, Bayesian model testing
 img: assets/img/da_ranalyses.jpeg
-importance: 1
+importance: 2
 category: data analysis
 ---
 

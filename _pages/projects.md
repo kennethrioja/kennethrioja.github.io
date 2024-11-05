@@ -5,7 +5,7 @@ permalink: /projects/
 description: about UX, video games and data analysis. See publications at the end.
 nav: true
 nav_order: 1
-display_categories: [ux, video games, data analysis, misc, publications]
+display_categories: [data analysis, dev, ux, video games, publications]
 horizontal: false
 toc:
   sidebar: left

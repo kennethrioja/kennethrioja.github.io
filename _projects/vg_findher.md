@@ -3,7 +3,7 @@ layout: page
 title: findher
 description: an educational video game to train english oral comprehension
 img: assets/img/games_findher.jpeg
-importance: 6
+importance: 7
 category: video games
 ---
 

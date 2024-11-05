@@ -3,8 +3,8 @@ layout: page
 title: tova
 description: a cognitive task using jsPsych framework
 img: assets/img/misc_tova1.jpeg
-importance: 1
-category: misc
+importance: 3
+category: dev
 ---
 
 # tools
@@ -19,7 +19,7 @@ At the Bavelierlab, we needed to implement our version of the Task Of Variables 
 
 📚 [GitHub link](https://gitlab.unige.ch/bavelierlab/tova)
 
-💻 [Link to test the task](https://tecfaetu.unige.ch/etu-maltt/baldur/rioja0/bl/tova/)
+💻 [Link to test the task](https://brainandlearning.org/tasks/tova)
 
 ______
 

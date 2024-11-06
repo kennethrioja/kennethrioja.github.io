@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My personnal blog # blog_name will be displayed in your blog page
+blog_name: my personnal blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar. Uncomment to enable blog
-blog_description: Writing about things I found cool to share (otherwise I won't write right?)
+blog_description: writing about things I find cool to share
 permalink: /blog/:year/:title/
 
 # Pagination

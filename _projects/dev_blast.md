@@ -1,7 +1,7 @@
 ---
 layout: page
 title: blast
-description: cognitive task to measure attention stability
+description: a cognitive task to measure attention stability
 img: assets/img/dev_blast1.png
 importance: 3
 category: dev

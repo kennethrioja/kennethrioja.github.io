@@ -1,7 +1,7 @@
 ---
 layout: page
 title: restful api
-description: using Flask (Python)
+description: to collect game data log using Flask (Python)
 img: assets/img/dev_flaskrestfulapi.png
 importance: 1
 category: dev

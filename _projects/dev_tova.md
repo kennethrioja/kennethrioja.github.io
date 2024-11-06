@@ -1,8 +1,8 @@
 ---
 layout: page
 title: tova
-description: a cognitive task using jsPsych framework
-img: assets/img/misc_tova1.jpeg
+description: a cognitive task to measure inhibitory control
+img: assets/img/dev_tova1.jpeg
 importance: 4
 category: dev
 ---

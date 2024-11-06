@@ -3,7 +3,7 @@ layout: page
 title: tova
 description: a cognitive task using jsPsych framework
 img: assets/img/misc_tova1.jpeg
-importance: 3
+importance: 4
 category: dev
 ---
 
@@ -24,3 +24,7 @@ At the Bavelierlab, we needed to implement our version of the Task Of Variables 
 ______
 
 ⏮ [*back to projects*](./..)
+
+⏩ [*next project : Blast*](./../dev_blast)
+
+<!-- ⏪ [*previous project : Metanoïa*](./../vg_metanoia) -->

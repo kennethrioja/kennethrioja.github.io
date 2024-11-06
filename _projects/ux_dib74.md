@@ -35,4 +35,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : unige faclab*](./../ux_unigefaclab)
+⏩ [*next project : Solamus*](./../ux_solamus)
+
+⏪ [*previous project : Unige FacLab*](./../ux_unigefaclab)

@@ -24,10 +24,10 @@ Grâce à PeintureXP, le dernier bijou de technologie intégré par défaut dans
         {% include figure.html path="assets/img/games_peinturexp1.png" title="peinture xp" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/games_peinturexp2.jpeg" title="peinture xp" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/games_peinturexp2.png" title="peinture xp" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/games_peinturexp3.jpeg" title="peinture xp" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/games_peinturexp3.png" title="peinture xp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -41,4 +41,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Star Tales*](./../vg_astralchamber)
+<!-- ⏩ [*next project : Astral Chamber*](./../vg_astralchamber) -->
+
+⏪ [*previous project : Astral Chamber*](./../vg_astralchamber)

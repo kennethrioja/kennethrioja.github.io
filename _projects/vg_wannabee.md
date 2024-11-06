@@ -46,4 +46,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Astral Chamber*](./../vg_astralchamber)
+⏩ [*next project : Astral Chamber*](./../vg_astralchamber)
+
+⏪ [*previous project : Metanoïa*](./../vg_metanoia)

@@ -2,7 +2,7 @@
 layout: post
 title: How to connect to your EC2 instance
 date: 2024-10-21 13:00:00
-description: 
+description: Talking about Amazon Web Services here!
 tags: code # work university hobby research edtech code ux ui data psychology videogames misc book
 # toc:
 #   beginning: true
@@ -15,7 +15,7 @@ tags: code # work university hobby research edtech code ux ui data psychology vi
 # redirect: https://edu.ge.ch/site/tablettepedagogique/2024/03/28/2656/
 ---
 
-1.	Click on “EC2”
+1.	On your AWS dashboard, click on “EC2”
 2.	Click on “Key pairs”
 3.	On the top right click on “Create key pair” -> a key pair will allow you to connect in ssh to AWS, you are creating your identity FOR AWS (not yet the instance)
 4.	Enter a key pair name (e.g., kennethunige) + leave RSA and .pem ticked and “Create key pair”
@@ -40,12 +40,14 @@ tags: code # work university hobby research edtech code ux ui data psychology vi
 12.	CHANGE ALL THE RELEVANT FIELDS: Run `ssh -i /path/to/your/myFile.pem username@pasteHerePublicUPv4DNS`. For example for me it is : `ssh -i /path/to/my/Key.pem kenneth@<IPv4 DNS>`
 13.	Welcome to the EC2 instance!
 
-I personally went with an alias + .sh file to not write the whole ssh command
-1. Create a ‘.sh’ file :
-```
-#!/usr/bin/env bash
-ssh -i /path/to/my/Key.pem kenneth@<IPv4 DNS>
-```
-2. Create an alias on your .bashrc or .bash_profile : `alias ec2='sh /Users/bavelierlab/aws/connectaws.sh'`
-3. Run `source .bashrc`
-4. Run `ec2` and here is your shortcut!
+# Connect with VSCode
+
+Courtesy of : https://medium.com/@christyjacob4/using-vscode-remotely-on-an-ec2-instance-7822c4032cff
+
+# Allow yourself to change files in var/www/html using VSC (CAUTION!!!)
+
+> Un grand pouvoir implique de grandes responsabilités – Uncle Ben
+
+1.	Connect with ec2-user and allow your username to be root : https://superuser.com/a/1212962 
+
+2.	Once you can save a file in var/www/html as sudo, if you are using vsc download : https://marketplace.visualstudio.com/items?itemName=yy0931.save-as-root 

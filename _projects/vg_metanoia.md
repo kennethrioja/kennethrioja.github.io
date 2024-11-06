@@ -46,4 +46,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Wannabee*](./../vg_wannabee)
+⏩ [*next project : WannaBee*](./../vg_wannabee)
+
+⏪ [*previous project : Star Tales*](./../vg_startales)

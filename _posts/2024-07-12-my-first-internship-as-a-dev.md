@@ -19,14 +19,14 @@ Validating an internship is mandatory within the [MALTT](https://www.unige.ch/fa
 
 Find the report of my internship [here](https://tecfaetu.unige.ch/etu-maltt/baldur/rioja0/internship/report_rioja_2024.pdf) (in french).
 
-During my 16 weeks of internship, I spend the first part to understand the context and got the theoretical background of what a RESTful API is and how it can send data to an SQL database.
+During my 16 weeks of internship, I spend the first days understanding the context and got the theoretical background of what a RESTful API is and how it can send data to an SQL database.
 
 I hesitated to begin coding with Java Spring, but since I got no former experience with Python, I decided to go with the latter.
 
 Then I followed courses on how to learn Python which was quickly done thanks to my background in coding in C and C++. I followed [PEP8](https://peps.python.org/pep-0008/) style guide to have an clean code.
 
-When it came to design the RESTful API, needed to choose between Django and Flask, the first one being a 'batteries included' framework versus the micro-framework Flask. I chose to go along with Flask since the lab did not need the whole Front-End that Django is offering, a simple Back-End app with Flask was doing the job. I then followed parts from the [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) while enhancing the entire architecture using blueprints, decorators, error handling, a route to export logs in a csv file, an ACL and token auth (JWT).
+When it came to design the RESTful API, I needed to choose between Django and Flask, the first one being a 'batteries included' framework versus the micro-framework Flask. I chose to go along with Flask as the lab did not need the whole Front-End that Django is offering, a simple Back-End app with Flask was doing the job. I then followed parts from the [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) while enhancing the entire architecture using blueprints, decorators, error handling, a route to export logs in a csv file, an ACL and token auth (JWT).
 
-Finally, with the help of the system engineer [Stéphane](https://www.linkedin.com/in/stephane-morand/), he gave me the rights to locate my app in the server, deployed and did the necessary tests to say I successfully deployed the RESTful API in the lab's server! Yaay!
+Finally, with the help of the system engineer [Stéphane](https://www.linkedin.com/in/stephane-morand/), he gave me the rights to locate my app in the server. I then deployed and did the necessary tests to say I successfully deployed the RESTful API in the lab's server! Yaay!
 
-Find the [GitHub repo of the RESTful API](https://github.com/kennethrioja/flask-restfulapi/) with its documentation and a [video in french](https://www.youtube.com/watch?v=yZxAamS0hrY) in french on how it looks like. 
+Find the [GitHub repo of the RESTful API](https://github.com/kennethrioja/flask-restfulapi/) with its documentation and a [video in french](https://www.youtube.com/watch?v=yZxAamS0hrY) on how it looks like. 

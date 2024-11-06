@@ -30,3 +30,5 @@ For a Masters course, the objective was to design a pedagogical device aimed at 
 ______
 
 ⏮ [*back to projects*](./..)
+
+⏩ [*next project : DIB74*](./../ux_dib74)

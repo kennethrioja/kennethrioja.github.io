@@ -38,4 +38,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Find Her*](./../vg_findher)
+⏩ [*next project : Star Tales*](./../vg_startales)
+
+⏪ [*previous project : Lapin Couard*](./../vg_lapincouard)

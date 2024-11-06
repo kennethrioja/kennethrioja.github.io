@@ -2,7 +2,7 @@
 layout: post
 title: A guide to the Performance tab in Chrome/Brave Webtools
 date: 2024-11-01 13:00:00
-description: 
+description: How I found a 16 ms (1 frame) bug in a visual task
 tags: code ui data # work university hobby research edtech code ux ui data psychology videogames misc book
 # toc:
 #   beginning: true
@@ -15,9 +15,11 @@ tags: code ui data # work university hobby research edtech code ux ui data psych
 # redirect: https://edu.ge.ch/site/tablettepedagogique/2024/03/28/2656/
 ---
 
+Skip the story and watch the video [here](https://www.youtube.com/watch?v=hjmdDsvkwyc).
+
 Working in a cognitive neuroscience lab involves doing research with real people, and when researchers are studying vision they need computerized tasks with accurate frame-by-frame displays.
 
-The UFOV ([Yung et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4354665/)) is one of the [tasks used at the lab](https://www.brainandlearning.org/tasks) to measure visuo-spatial attention. The task displays a stimulus during an *n* number of frame (e.g., for a screen at the refresh rate of 60Hz, displaying 60 frames per second, meaning 1/60 = 16.667ms). However, it appeared that when testing the task with a photodiode, the stimulus was always shown with one supplementary frame.
+The UFOV ([Yung et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4354665/)) is one of the [tasks used at the lab](https://www.brainandlearning.org/tasks) to measure visuo-spatial attention. The task displays a stimulus during an *n* number of frame (e.g., for a screen at the refresh rate of 60Hz, displaying 60 frames per second, meaning one frame every 1/60 = 16.667ms). However, it appeared that when testing the task with a photodiode, the stimulus was always shown with one supplementary frame.
 
 After debugging the draw loop of the task, how to test the task 'frame-by-frame' or at least in a precise manner?
 
@@ -27,6 +29,4 @@ I first watch this [first guide to web performance](https://www.youtube.com/watc
 - FID, First Input Delay is Interactivity which must be under 100ms.
 - CLS, Cummulative Layout Shift which is Visual Stability and must be under 0.1. To enhance the user experience use img width & height and srcset.
 
-Enough *blabla*. 
-
-I downloaded the Web Vitals Extension to check for FID, but what was the most important for me was how to check for LCP. And in a more extreme manner, I needed to get a display time of 16.667ms on a 60Hz monitor. How did I do it? Check [my guide to the performance tab](https://www.youtube.com/watch?v=hjmdDsvkwyc)!
+I downloaded the Web Vitals Extension to check for FID, but the most important indicator for me was LCP. In a more extreme manner, I needed to get a display time of 16.667ms on a 60Hz monitor for the trials at n=1 frame. How did I do it? [Watch my guide to the performance tab](https://www.youtube.com/watch?v=hjmdDsvkwyc)!

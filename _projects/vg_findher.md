@@ -40,3 +40,5 @@ Charles a young researcher found that Myriam the head of the lab suddenly disapp
 ______
 
 ⏮ [*back to projects*](./..)
+
+⏩ [*next project : Lapin Couard*](./../vg_lapincouard)

@@ -47,4 +47,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Lapin Couard*](./../vg_lapincouard)
+⏩ [*next project : Metanoïa*](./../vg_metanoia)
+
+⏪ [*previous project : Lapin Couard*](./../vg_lapincouard)

@@ -1,26 +1,32 @@
 ---
 layout: page
-title: blast
-description: another cognitive task using jsPsych framework
-img: assets/img/misc_blast1.png
+title: restful api
+description: using Flask (Python)
+img: assets/img/dev_flaskrestfulapi.png
 importance: 1
 category: dev
 ---
 
 # tools
 
-`HTML`, `CSS`, `JS`, `jsPsych`, `AWS EC2/S3`
+`Python`, `Flask`
 
 # context
 
-At the Bavelierlab, we needed to implement our version of the Bron/Lyon Attention Stability Test([BLAST](https://pubmed.ncbi.nlm.nih.gov/31541659/)). I coded the whole task using the [jsPsych](https://www.jspsych.org/v7/) framework in collaboration with [Sylvie Denkinger](https://www.linkedin.com/in/sylvie-denkinger-1b41943a/).
+During my 2-months internship at the [Laboratoire d'Innovation Pédagogique](https://www.lip-unige.ch/), the aim was to collect data from a video game made in Unity. This RESTful API involves a user registration (accessible only by the admin) so that we have a table `users` as well as a Token based auth to allow data log record on the `logs` table using the auth token everytime you send a POST request.
 
 # links
 
-📚 [GitHub link](https://gitlab.unige.ch/bavelierlab/blast)
+📚 [GitHub link](https://github.com/kennethrioja/flask-restfulapi/)
 
-💻 [Link to test the task](https://brainandlearning.org/tasks/blast)
+💻 [Video in french for the developper in charge of implementing the RESTful API](https://www.youtube.com/watch?v=yZxAamS0hrY)
+
+📖 [Internship report in french](https://tecfaetu.unige.ch/etu-maltt/baldur/rioja0/internship/report_rioja_2024.pdf) – see "ÉVALUATION DES RÉALISATIONS PAR LA RESPONSABLE DU STAGE"
 
 ______
 
 ⏮ [*back to projects*](./..)
+
+<!-- ⏩ [*next project : Astral Chamber*](./../vg_astralchamber) -->
+
+⏪ [*previous project : OAuth2*](./../dev_oauth2)

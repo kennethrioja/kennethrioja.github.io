@@ -35,4 +35,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : dib74*](./../ux_dib74)
+<!-- ⏩ [*next project : Astral Chamber*](./../vg_astralchamber) -->
+
+⏪ [*previous project : DIB74*](./../ux_dib74)

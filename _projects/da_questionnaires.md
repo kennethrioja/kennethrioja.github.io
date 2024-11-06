@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Comparing questionnaire' versions
-description: extreme group analysis, Bayesian model testing
+title: t-tests, Bayesian
+description: comparing two questionnaires' outcomes
 img: assets/img/da_ranalyses.jpeg
 importance: 2
 category: data analysis
@@ -29,4 +29,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : visual network analysis with r*](./../da_vnaintro)
+⏩ [*next project : Clusters*](./../da_clusters)
+
+⏪ [*previous project : Visual Network Analysis*](./../da_vnaintro)

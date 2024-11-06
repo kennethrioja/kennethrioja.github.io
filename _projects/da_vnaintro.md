@@ -1,7 +1,7 @@
 ---
 layout: page
-title: vna using R
-description: an introduction to visual network analysis
+title: visual network analysis
+description: an introduction using R
 img: assets/img/da_vnaintro.jpeg
 importance: 3
 category: data analysis
@@ -35,3 +35,7 @@ learners and their contexts, for purposes of understanding and optimizing learni
 ______
 
 ⏮ [*back to projects*](./..)
+
+⏩ [*next project : Comparing questionnaires' outcomes*](./../da_questionnaires)
+
+<!-- ⏪ [*previous project : Metanoïa*](./../vg_metanoia) -->

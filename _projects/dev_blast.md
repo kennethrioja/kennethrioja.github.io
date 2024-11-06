@@ -1,9 +1,9 @@
 ---
 layout: page
 title: blast
-description: another cognitive task using jsPsych framework
-img: assets/img/misc_blast1.png
-importance: 2
+description: cognitive task to measure attention stability
+img: assets/img/dev_blast1.png
+importance: 3
 category: dev
 ---
 
@@ -24,3 +24,7 @@ At the Bavelierlab, we needed to implement our version of the Bron/Lyon Attentio
 ______
 
 ⏮ [*back to projects*](./..)
+
+⏩ [*next project : OAuth2*](./../dev_oauth2)
+
+⏪ [*previous project : Tova*](./../dev_tova)

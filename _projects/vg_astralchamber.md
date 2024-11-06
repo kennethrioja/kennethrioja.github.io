@@ -13,7 +13,7 @@ category: video games
 
 # context
 
-[Astral Chamber](https://kennethrioja.itch.io/astralchamber) was made at the [UPsi Jam 4.0](https://itch.io/jam/upsi-jam-4-0) in Neuchâtel, Switzerland, in March 2024, under the [VeryKoolGames](https://www.instagram.com/verykoolgames/) label, an indie video game studio composed of [Benjamin Vermot](https://benjaminvermot.ch/index.html), [Victor Vermot](https://www.linkedin.com/in/victor-vermot-petit-outhenin-02786b23b/) and I. I was responsible of programming the mechanics of the first three faces and the animation of the character.
+[Astral Chamber](https://kennethrioja.itch.io/astralchamber) was made at the [UPsi Jam 4.0](https://itch.io/jam/upsi-jam-4-0) in Neuchâtel, Switzerland, in March 2024, under the [VeryKoolGames](https://www.instagram.com/verykoolgames/) label, an indie video game studio composed of [Benjamin Vermot](https://benjaminvermot.ch/index.html), [Victor Vermot](https://www.linkedin.com/in/victor-vermot-petit-outhenin-02786b23b/) and I. I was responsible of programming the mechanics and design of the first three faces and the animation of the character.
 
 🥈 This game was awared the second best game out of twenty-three submissions ! Find the stats [here](https://itch.io/jam/upsi-jam-4-0/rate/2603728).
 
@@ -52,4 +52,6 @@ ______
 
 ⏮ [*back to projects*](./..)
 
-⏭ [*next project : Star Tales*](./../vg_wannabee)
+⏩ [*next project : PeintureXP*](./../vg_peinturexp)
+
+⏪ [*previous project : WannaBee*](./../vg_wannabee)

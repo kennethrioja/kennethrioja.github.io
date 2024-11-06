@@ -1,6 +1,6 @@
 ---
 layout: page
-title: t-tests, Bayesian
+title: t-tests, correlations
 description: comparing two questionnaires' outcomes
 img: assets/img/da_ranalyses.jpeg
 importance: 2
@@ -17,7 +17,7 @@ One of the challenges during COVID at the Brain And Learning lab was that we wan
 
 # links
 
-📖 [Link to the article](https://tmb.apaopen.org/pub/tmb0000106/release/1#s21)
+📖 [Link to the article](https://tmb.apaopen.org/pub/tmb0000106/release/1)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

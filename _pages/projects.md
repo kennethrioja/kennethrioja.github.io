@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: about data analysis, UX and video games. See publications at the end.
+description: about data analysis, dev, UX and video games. See publications at the end.
 nav: true
 nav_order: 1
 display_categories: [data analysis, dev, ux, video games, publications]
